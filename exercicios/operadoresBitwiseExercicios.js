@@ -53,3 +53,5 @@ let deslocamento1 = n11 << 2;
 
 console.log (deslocamento1 );
 
+
+
